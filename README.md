@@ -1,3 +1,3 @@
-# Container config for Django Development
+# Linux Container Environment for Django Development
 
-This repo maintains versions for different available container managers.
+This repo maintains versions for different container managers.
