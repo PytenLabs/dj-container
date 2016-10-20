@@ -1,0 +1,5 @@
+containers:
+  dj-container:
+    setup:
+    - !Ubuntu trusty
+    - !Install [python]
